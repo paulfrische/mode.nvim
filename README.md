@@ -23,7 +23,7 @@ functions:
 -- activate
 require('mode').on('Debugging')
 
--- deactivate when finish debugging
+-- deactivate when finished with debugging
 require('mode').on('Debugging')
 ```
 This plugin is:
