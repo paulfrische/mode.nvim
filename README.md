@@ -38,4 +38,4 @@ some nasty bugs.
 ## Alternatives
 Here are some alternatives:
  - [stackmap.nvim](https://github.com/tjdevries/stackmap.nvim)
- - [hydra.nvim](anuvyklack/hydra.nvim)
+ - [hydra.nvim](https://github.com/anuvyklack/hydra.nvim)
