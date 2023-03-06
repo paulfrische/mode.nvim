@@ -24,7 +24,7 @@ functions:
 require('mode').on('Debugging')
 
 -- deactivate when finished with debugging
-require('mode').on('Debugging')
+require('mode').off('Debugging')
 ```
 This plugin is:
  - 🐒 easy to use
